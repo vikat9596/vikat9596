@@ -13,7 +13,8 @@
 
 ## Work Profile
 
-* Working as a FreeLancer at [Viras InfoTech](https://www.virasinfotech.com).
+* Working as a Software Engineer at [Edgewater Markets LLC](https://www.edgewatermarkets.com).
+* Worked as a Full Stack Developer at [Viras InfoTech](https://www.virasinfotech.com).
 * Worked as a ServiceNow Developer at [Infosys](https://infosys.com).
 
 
